@@ -1,4 +1,4 @@
-# Certifications
+# Certificates and Certifications
 
 Throughout my career I have gained certificates and certifications.
 

@@ -6,6 +6,10 @@ Throughout my career I have gained certificates and certifications.
 * Google IT Support Specialist
 * Google AI Essetials
 
+# Atlassian
+* Version Control with Git
+
+  
 # Six Sigma
 * Six Sigma Yellow Belt
 
